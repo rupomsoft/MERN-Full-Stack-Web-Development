@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90c75595-6a09-488e-903d-5f496a4b1c0c" name="Changes" comment="" />
+    <list default="true" id="90c75595-6a09-488e-903d-5f496a4b1c0c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/ProfileController.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/ProfileController.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +28,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -38,6 +42,9 @@
       <updated>1668180584732</updated>
       <workItem from="1668180586147" duration="3052000" />
       <workItem from="1668265363380" duration="62000" />
+      <workItem from="1670084977277" duration="793000" />
+      <workItem from="1670092644500" duration="1000" />
+      <workItem from="1670093117576" duration="26000" />
     </task>
     <servers />
   </component>

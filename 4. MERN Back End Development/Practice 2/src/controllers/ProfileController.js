@@ -15,7 +15,12 @@ exports.CreateProfile=(req,res)=>{
 
 exports.UserLogin=(req,res)=>{
     let UserName=req.body['UserName'];
-    let Password=req.body['Password']
+    let Password=req.body['Password'];
+
+
+
+
+
     ProfileModel.find({UserName:UserName,Password:Password},(err,data)=>{
       if(err){
           res.status(400).json({status:"fail",data:err})
